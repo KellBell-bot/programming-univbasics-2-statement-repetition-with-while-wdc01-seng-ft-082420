@@ -1,4 +1,4 @@
-exit_number = 1
+exit_number = 0
 count = 10
 while count > 0 && count != exit_number do
   puts "#{count}"
